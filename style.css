@@ -113,7 +113,7 @@ h2 {
 .btn:hover {
   color: #ffffff;
   background-color: #6e64ff;
-  transition: all ease 0.7s;
+  transition: all ease 0.4s;
 }
 
 .iconArea {
